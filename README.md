@@ -1,4 +1,4 @@
-# My name is the reaction project "Phonebook"
+# My name is the React project "Phonebook"
 
 The project allows you to add and remove your contact list.
 
@@ -14,7 +14,7 @@ management using the Redux Toolkit library.
 This project is a continuation of task 4 "Phonebook", which used hooks and
 Redux/Redux Toolkit technologies.
 
-##What was created in the application
+## What was created in the application
 
 - The store has been created with configureStore().
 - An action for saving and deleting a contact and refreshing a filter has been
