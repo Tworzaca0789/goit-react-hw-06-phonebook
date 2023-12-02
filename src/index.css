@@ -1,4 +1,9 @@
 @import-normalize; /* bring in normalize.css styles */
+#root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 body {
   margin: 0;
